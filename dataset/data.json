@@ -25,8 +25,8 @@
   {
     "id": "4",
     "name": "Temperatura do freio traseiro direito",
-    "type": "PAAAAAH",
-    "minValue": "Africano",
+    "type": "Temperatura",
+    "minValue": "20",
     "maxValue":"70",
     "samplingRate":"10"
   },
