@@ -1,0 +1,1495 @@
+id, name, type, samplingRate, min, max, value, status
+1,Temperatura motor,Temperatura,10,15,70,41.020106060748965,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.79113017550444,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,85.59572481187668,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,31.00987477629412,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.06950582368389,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.358071508924802,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,68.22753260900694,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,80.59921572235092,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.624037390638644,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.31321808954616,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,48.40331056237248,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.957500407400408,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,6.56539458662627,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.16315394600856,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.975583790525853,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,34.041865141330895,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.78632659873455,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,22.487873107775044,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.658968509958655,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.15846815875651,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.10372578213953,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,32.71161081257424,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,38.166328305081116,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.744490218436457,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.087850728022474,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,46.46620438921734,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.755407990820405,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,9.07893742111356,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,50.09106630369148,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.772610281308978,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,17.264358318290945,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.31646941692985,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,66.99037263611795,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,63.342439762740824,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.482025642440435,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.17298264134891,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,56.1376758911759,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,69.01326090163231,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.513559587067483,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.00225448961804,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.22919787472864,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.4039943927626926,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,97.4888621390041,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,59.259520356220335,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.712201754004886,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,47.03036969478613,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.827598526492782,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,84.55216474832238,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.25627520982826,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.313627421781717,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.543753961355045,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,69.65800795569098,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,24.098248004910204,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.0553119674706215,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.99818179350852,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.47859050064683,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.562882911384586,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,17.681955499135462,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.418305387761194,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.665415581235616,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,55.87114606228723,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.420646999898985,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,91.01180607077094,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,38.785303458666576,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.01627397845384,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.51621768268393,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.79253977348293,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,40.97693659261874,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.200640276573096,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.491053999359536,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.925329352721448,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.259252970556095,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,105.1545841798652,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,35.13634357032411,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.689325201230979,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,30.613589804616687,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.900507148288085,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,60.89238289769832,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.2964276439824,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.156158748817905,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.888935459101457,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,44.32822523428318,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,34.681730905676815,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.735499794263845,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.53399017535327,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,31.301935371748247,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.689857608485148,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,91.9423704235816,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,28.941231850876058,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.368638022732065,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,29.9227578954709,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.12136363079172,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,67.34732366271987,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.12855293930741,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.019779134063114,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.79994330957513,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,34.19730600219051,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,29.279399233424744,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.029121471773047,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.04586159130086,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,59.456595929965275,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.953834772385374,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,46.47206137932194,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,29.402297635963777,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,15.046460600362032,FAILED
+1,Temperatura motor,Temperatura,10,15,70,55.33182656775749,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.58263414111129,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,105.9981784811127,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,20.361730148904478,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.88434825981237,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.07344490466987,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.77586761936139,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,88.78451579470551,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.131067251593208,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.487247632045015,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,24.114253268541127,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.497389284353368,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,103.9777146770717,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.81723161894509,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.145826605825777,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,70.07705459624397,FAILED
+2,Pressão do óleo,Pressão,20,30,40,30.182498798258898,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,41.19990526049562,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,23.402367758153545,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.012702390083383,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.179007375134844,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,55.54308847742681,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,67.27797879600479,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.253539845422892,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,38.698776999464656,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.77144593601233,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.264969904542887,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,22.44818531342856,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,30.416017686678614,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.314753806345471,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,21.24790868886886,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.98247158156612,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,67.6102404997679,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,66.08522696411508,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.582311744478902,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.12525086348568,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,55.070869136722166,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,20.47018472858876,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.781132629378371,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.77948916827964,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,61.15888774082052,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.27016689388957,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,22.40999062860832,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,64.45720820163638,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.193500005824541,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,32.01862300000944,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.26319791839405,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,55.70150675187491,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,69.90238391613991,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.983996015778636,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.086225488588966,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.65578749915176,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,65.11706040841341,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.0497691899992825,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.27046607514677,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,25.03653790916134,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.977811360508992,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,83.00024086937289,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,64.23530187169429,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.887025399441846,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,58.976415282863954,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.34882611289016,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,95.56258439232391,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.33916844886106,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.686375037802232,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.29211302469221,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,28.10673378011179,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,19.990431425679667,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.956230144025945,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.15679480171487,FAILED
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.1927659974183,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.803086941142356,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,22.15131845692816,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.87470071983117,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.491549841855062,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,26.19694920261791,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.965941277376754,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,9.589447456691591,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,69.00423277591061,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.725464051059738,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.676674996797772,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,61.33727984181783,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,26.42564936656731,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.466146955894672,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.256424415328382,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,69.16147628037682,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.396718928808153,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,88.76610024816848,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,39.06399332678497,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.49589324745932,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,47.34722714391843,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,38.512762619715716,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,58.60615033523393,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.0698892349735,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.54902325646753,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.121364179066703,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,68.61395642237785,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,18.737597106593274,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.774273110013983,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.762086477545683,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,47.23245262245888,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.002323772619194,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,92.38706415139823,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.442505542744072,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.370395001059363,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,48.51675446990662,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.60440585520362,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,104.01650279347216,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,68.24789295292463,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.65952342794148,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.909265513611246,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,19.997404227006967,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,37.718724209624725,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.82251065540632,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.3741935873318,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.33685630506615,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.790607204224731,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,44.945759582445866,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,36.337262905278536,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.63019682011161,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,15.339910545543678,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.78343618718641,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,63.04156741308334,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,64.8197400749098,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.197745688754772,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.310335063006253,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,38.5793986814097,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,6.126664105924668,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.2467437915483,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.834461609344899,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.475814111793696,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,87.2087244631694,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.164579980951594,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,55.43139614962146,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.350704409586484,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,63.34457204250035,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.85991422049068,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,66.46066575947287,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,30.434908679759634,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.591247590645175,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.28462870689914,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,50.24115515010039,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,52.59561387523776,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.917519378268466,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.436160139388364,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,45.87096617378359,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,43.079286032596706,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.440055422481652,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,30.15460512532669,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.260150554557622,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,65.42370178444197,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.603603462353945,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,104.45913025487275,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,68.39594792730698,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.07232835960426,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.288672879680512,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,19.886311331863514,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,90.65929876701992,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.616643380758596,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.309815943526484,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,51.32079788218329,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,93.27526464172408,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.497935424848141,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.81316079906419,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.830907873930257,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,19.818172498316066,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.152164793165326,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,96.89415112363001,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,23.352076239266335,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.099113320314064,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.75620823647289,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,51.42648665909957,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,109.3064343689573,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.3066663986852,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.91824888216538,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,44.46344837633266,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,70.11490284913648,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.895330589009756,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.74092993235588,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.499131990004663,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,47.95546430159375,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.141719393362436,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,89.27024536123704,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.411859464592155,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.746543659536407,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.617162051692203,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.05780928734367,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,50.042187634880044,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.00265861716118,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.461071219509089,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,50.4950523907232,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,35.37168287402039,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.056902195968093,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.99155052530942,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.95307708203904,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,46.58975323313088,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.75268890590885,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,99.58678119421928,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,26.219065291771855,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.0485279588548675,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.428603673735308,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,66.20485254592634,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,13.763332206389702,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.11908048919424,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.647503553515183,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,32.973678989627714,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,40.102946496491384,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.67739891882078,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,25.38024693045824,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.315459019419468,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,54.01297062350727,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.9849181069818,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,6.215905186314128,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,39.387646225745584,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.713671739789263,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,44.15100394212323,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.044797446763294,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,8.313501081417435,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.756939760524162,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.92983326097639,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,62.98933858074571,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,24.775698795190472,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.89435968851437,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.973990522516374,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.929130292176197,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,64.2983500606555,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,29.913735899701905,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,42.837621435560415,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,47.50014585479271,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.52486119372329,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.586104532194932,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,34.17007363717035,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,43.32606305489513,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.246848511009592,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.534861871322263,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,46.558564565879365,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,55.558275667467704,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.244553616080104,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.70009730342557,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.5971960352006205,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,40.60400092672056,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.433705530112405,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,18.7554566864118,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.721231773279854,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.117866349570727,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.336459340461836,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.771552549858008,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,36.585550775827436,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.78094500865171,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.44883256091171,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,35.94047590726525,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,85.49151996295451,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.627350170817905,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,38.3320919236889,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.633596744216324,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,69.05771912928093,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.77423900117769,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,36.144153948934665,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.90266722359243,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.369250036024189,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.02168126680876,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,37.57459159403094,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,26.79252524379958,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.453291895347306,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.601128132047052,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,59.330478129074294,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,10.31692159673812,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.699068483493154,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,34.16369957218494,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.408613832834414,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,69.86398198700286,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.06557291917974,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,33.55177106430184,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,29.928548036563235,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.588409816008646,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,70.31351131719836,FAILED
+5,Nível de água do motor,Umidade,50,5,15,7.703991989748275,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,22.163921209312136,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.60694212188579,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.051189746992506,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,70.68437815895133,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,43.07055604429316,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.832135659403411,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,33.2902622360281,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.993766326025334,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,24.684106248732697,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.48284917136347,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,73.11033923474331,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,66.1727382768562,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.545853252478281,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,55.09492572800286,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.427813349658209,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,19.821142736799484,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.0564893706498,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.161440305596518,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,24.56193879341513,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,8.23402805094562,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.715905716692802,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,35.30116561076234,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.494559025240477,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,65.18856976319576,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.63006785111331,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,22.7212490828849,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,41.91831949111233,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.975023873072839,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.03145431202225,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.914728973481939,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,61.50270089256509,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.38206001252336,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.907874273066284,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.794823749725325,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,26.636976120693202,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.666032718280111,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,25.09385730479095,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.540571085619845,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,34.17661753873454,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.68178995321498,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,94.8891923516448,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,51.4233973294805,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.616456635566323,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,68.63218552638389,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.545020012860808,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,60.80221729694898,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.419249099037692,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.270807622526299,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,34.107882288584015,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,74.72440756911031,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.522921107400986,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.07523851178841,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.229687956318234,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,57.569561283773226,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.178691195780964,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,28.43474365949044,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.47770662654901,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.780087344801165,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,44.16043730940758,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.7806924525947485,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,56.24490871299544,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.3616685369233,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.904005324862368,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,59.54573427719038,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,84.25904020443537,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.892228039041175,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.67407003907762,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.759032389220655,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,65.5230866790339,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.91747302984952,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,106.3176142511823,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,32.09415403192899,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.822383675445725,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.319100609810924,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.07051783562845,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,53.44065701843444,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.87020620908743,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.607834033955049,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.9171681245538,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,110.32074419429676,FAILED
+5,Nível de água do motor,Umidade,50,5,15,5.6790903155774854,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.14467707876699,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,55.32436262450542,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.410323670275318,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,29.745017850613063,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,32.30500410370738,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.74276701438242,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.021420442329076,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,25.605235785352413,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.529128715683026,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,100.76413801702033,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.345173295941485,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.010158703025525,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.07927729190207,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,77.26603848130628,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.020992225197835,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.39251544267559,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,30.543290637403643,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.309116281213253,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.78445273546948,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,9.668399954392626,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,43.90267263692742,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.108501814133962,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,46.27662766445702,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.928991072802447,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,79.96807416295013,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.00419421104331,FAILED
+5,Nível de água do motor,Umidade,50,5,15,7.250024701960838,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,55.39900999516746,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,100.81874712786866,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.839716649015543,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,33.477897619128875,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,37.7994408510345,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.166519338710129,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.25960118643945,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,6.1181152507846015,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,61.5477925452267,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.109830457828458,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,56.844477414800636,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.077989403367305,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,13.6673605948018,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.55762015868453,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.284121812020951,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,56.494393980718584,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,6.304553543822115,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.938829248596786,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,41.89345045751509,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,52.942524991848835,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.888616735011382,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.777349895425985,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,101.51426381077883,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,50.61300702135825,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.34694561679175,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,63.3243344293481,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.685499046618695,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,55.719246785583735,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.300092643791885,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.210374455550491,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.96301518462202,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,15.830629096521339,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.790963232301349,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,64.31607245429008,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,60.40432879220215,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.803682672530577,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.74131866622058,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,5.334798617890911,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.527620813054355,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.26409450417982,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.03992523818485,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.008079560594656,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,38.70377735010802,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.67576655113854,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.241965409971305,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,66.64748404529021,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,31.947762515789428,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.174932242445937,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,49.86386479024985,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,21.00864914023794,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.379404293649177,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.26908162633325,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,97.8555413720212,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,23.6494902464201,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.330358410765849,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,45.291115333013664,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.383707445845577,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,37.85965989791273,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.16705142052583,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.883533720747147,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.2173707845445,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,65.03178796966385,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.275948527973913,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,33.45104053613067,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,25.797503654770175,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.713577302422076,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.874321101355484,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,98.89331360102877,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.091793623539616,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.019763566940838,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,44.41019298646846,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.031042911726888,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,51.867870914139345,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.446247273440235,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.3850334069137675,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.436482901919604,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,104.39059929958495,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.119437915683337,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,69.2098525277132,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,69.31508903732848,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.252734196434171,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.4673662187687,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,13.670907475489955,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,41.653811065420875,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.792221520569321,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,60.622967816106794,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.467472720706585,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,19.60579496871386,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.9348072991845,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.326972272045609,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,24.725022660424017,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,109.4948863146981,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.451429147007989,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,27.483432447806674,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,58.83020357804615,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.407866750018268,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.314260990405451,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,5.5866857579270714,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,45.51409112352519,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.24590741970681,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,46.25168741720921,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,70.79765332960635,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.356192905912856,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.02608813429909,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.597995844534447,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,64.47219432023199,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,45.76005506295518,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.20143776330454,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.675274323426926,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,49.384245417747756,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.38112705056708,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.241767521051503,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,54.22844563483724,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,30.992647480077483,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.384776649758894,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,36.27964311323372,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,67.31309114049162,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.815364421823197,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,38.7345939868688,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.706306794269592,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,29.602632569276523,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,19.010832008893182,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.294745941739769,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,60.85803486218232,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,32.52415722287787,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.118188683703266,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.382541222024788,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,105.04962824600216,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,68.02335070845913,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.737874243243816,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.45299839891682,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,65.3959733578386,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.138852903702691,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.30644933477861,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.397561688523812,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,49.24634540079853,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,8.842042835378312,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.77194380519479,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,44.92837482085994,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,43.82873517231644,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.95656508525694,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.629648910901896,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,63.37775024346134,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,29.09265768977016,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.405662652536192,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.31917126850573,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,21.43988429209782,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.291163189177503,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.62260465112514,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.231636840827437,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.61596699471458,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,50.17278758127887,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.678852634907628,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,19.93488806002634,FAILED
+1,Temperatura motor,Temperatura,10,15,70,41.78995414530578,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.690388040371495,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.162312386512776,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,102.9382725622205,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.2098585552191,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.188370420072216,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.532281987496035,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,70.21951326367251,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.597319933442662,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.526417595082894,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.475633103972513,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,31.79005011035119,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,104.55521426578214,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.470569547476414,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,38.10042159978711,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,27.952788344428683,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.633658703213,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.285104591758712,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,67.04057261601487,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.43559864300737,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.26188107133978,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,20.313364101578898,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,77.28927194540104,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.744581014908727,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.72009327176082,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.337795241543482,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,70.5783936412227,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,30.9067745065134,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.707328060741013,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,27.739181605199544,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,36.876714281219165,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.862940529136814,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.123944270326424,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,78.52800084272181,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,36.01219724601498,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.084256400081328,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.22396332012698,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,67.11553250786443,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.410042291332175,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.62614730936338,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.994793571997217,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,55.594541037488796,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,17.090743897106545,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.576715107914282,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,32.935229105562634,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,37.03984067837118,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.12195379448896,FAILED
+5,Nível de água do motor,Umidade,50,5,15,8.647605561225149,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,78.18440080164412,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.25512642792795,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.531468124851422,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,34.49852952420302,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,89.53507483182959,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.57772180067424,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.157946504093346,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.308022827098483,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,38.63964434051675,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,102.53042131220472,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.022192948071922,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,31.200899807590645,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,47.70880046431321,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.85174667315396,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.890948296032697,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,75.72522841234414,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,64.49392164541379,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.925781836334888,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,20.873371299037675,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,48.34833908525527,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.574611673197218,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.836689535735427,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.367787629137561,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,30.05084579924111,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,43.464561020409626,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.971336399569688,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,60.51837901229693,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,26.28259688670265,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.218003620794256,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.492613599338817,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,106.77568040237101,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,41.913927219537214,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.43774507753474,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,28.942279149847284,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,34.00874207115219,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.020649568372635,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.81594148852562,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.276333929557872,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,47.95432079374907,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,57.84865362526966,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.51581112477227,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,49.854018829574045,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,46.90609561828634,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.10742494497879,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.86577677931119,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,90.22688439708318,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,36.97085158673592,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.823040133746485,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,59.08680455403962,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,13.176069517926301,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.508341724537111,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.47342393646316,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.561680525224672,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,24.903307315193437,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,24.61745879174519,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.60346456005422,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,62.81924183919166,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,30.154927656651065,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.37790666690857,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.1819883793633945,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,93.21097626447552,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.38119401595306,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.249024088423264,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,66.68301779028926,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,43.72794629658097,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.819876188761981,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.28225471614082,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.194617012808745,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,34.104003843348714,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,104.48735938751253,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.6165794729109635,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,51.05206655429508,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,34.451638133948705,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.144606540115745,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.460927929941924,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,54.69728450136476,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.78548158534801,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.4826575962091315,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,84.09136383371037,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,46.88353489773698,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.073347236367894,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.613641592606584,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.769117854665634,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,38.52714116441636,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,44.99381849663559,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.187741246863192,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,63.3346086162791,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,38.623539190129044,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.231355692125664,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.469835819420927,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,14.11160039533879,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,23.34591024157892,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.069238419677204,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,45.231443876926306,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.68469918677573,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.678793640194042,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,29.920284561289655,FAILED
+5,Nível de água do motor,Umidade,50,5,15,6.256113691935701,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,69.32747633031926,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,89.51182406881547,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.7516989148798,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.83711629872296,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,44.115458996542394,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.93398920710865,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.220304116449597,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,42.29448143282783,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.12127179054845,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.769559473227037,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,59.44216322181219,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,62.67594845009599,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.48608144943347,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.416431809915338,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.387972794094875,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.56127271280194,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,6.682853932435908,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.933583690907462,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.86805770398623,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,26.642055731366895,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.22632620289791,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.677987570701308,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,34.183836188759386,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,66.02961708958834,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.971312230743493,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,103.65862384398216,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,61.9625020184298,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.97547415707401,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.64477485314705,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.659658710178785,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,55.01957652876581,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,104.60317491711456,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.03353170146574,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.16591465217105,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,17.414779305925762,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.42316052424661,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.005001737176723,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,33.72484584484359,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.13530288769365,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.548638840808232,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,103.60314523137794,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.93016663279731,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.89318953245019,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.22298999779623,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,43.801006993250674,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.305287918536266,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,86.47857251135916,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.899042368537209,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,51.54863140762852,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,59.398767471767876,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.32894788835523,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.084689836966742,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,98.18211846060862,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,51.728190133301396,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.951323655183842,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,49.25446354933912,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,69.10813808830964,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.01519434715662,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.03501146821109,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.07134710905362,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.530219254016482,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,59.88086875187975,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.643229407797996,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.313235044652075,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,60.58985475184299,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.96916008842399,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.635695137872023,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,70.75701337293913,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.895523851321585,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.060633515424502,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,24.978468013538915,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.59951457760697,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.322183044232098,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.44180822375212,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.175054475311526,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.75744517754522,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,29.886539310064162,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.892846679211031,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,70.33397585973593,FAILED
+1,Temperatura motor,Temperatura,10,15,70,46.13546689734131,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.894189275018395,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,62.75673470235118,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.83223461421927,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.362721804905476,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.412852277185891,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,9.478895421685177,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,46.88220825816316,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.341191551210451,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.26424804669314,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.01245563642779,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.429903386972846,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,35.6519900188875,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.49336689025931,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,51.23594913717544,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,15.576009339743626,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.720465884729006,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,65.41235096735745,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.841437995596834,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,37.280505886791886,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.100676853935681,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,98.10840844715894,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,30.236403691780275,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.247367838459102,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.091420049241876,FAILED
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,69.82422715718886,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.022033816840558,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,68.22278411578192,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.863456767276585,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,23.79607278720586,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,63.30580656892867,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.2881031653164,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,58.12619208502137,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.97796793517606,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,48.801209221003504,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.534179729513346,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,30.51780297529481,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,33.18370236553542,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.52502733866925,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.668351119535194,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,39.173437796116296,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.36972560646481,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,89.76819774356568,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.684005091507494,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,61.0044710438672,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.7142243787294,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.30162259984128,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,10.177211045896765,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.364223539048396,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,27.862773666244017,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.117124191888727,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,70.37146882557005,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.17136792191326,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.15539240256392,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.510419433048357,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.6606475798812,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.662247728749838,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,88.1633965238227,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.781737292450654,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,50.43434271835563,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.34283383649192,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.66729285811508,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,55.99949414435079,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.607324133503363,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.114841245749076,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.390889067880806,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,40.879177676210254,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.85356596168906,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.55059636070374,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.456741486532707,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,38.091540881808235,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.171646219944666,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,77.12504402658283,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.0649042578132,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,24.64426885407312,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,28.07189946522759,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.089429985337134,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,15.28391703084085,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.668312694513595,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,26.79224607775025,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.167394222890376,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,74.6284358039924,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,46.538689651152396,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.39918647772439,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.422263280276956,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.8479951086271,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.374306712213989,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,38.05247095377481,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.65497092905741,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,18.47924702758338,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,46.48898781893078,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.36507721896932,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,79.70432349416967,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.305367363106715,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,32.147038138590666,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.170533462943691,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,77.27768196823013,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.640883163725746,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.460045467592288,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.46908791383025,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.915048276292055,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.275825691898602,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,82.92583671617365,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.715764898271997,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,68.60516217215196,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,25.654414486156803,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.511484007967226,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,89.36527173190603,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.800659445823532,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,39.64708611174238,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.711323021624434,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,101.3403776442067,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,37.25760985770457,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.9550801732,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.460154969996445,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,24.517821135913554,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.36188532555617,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,95.41844150007488,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.53369526546699,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,36.71577346934744,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,63.15494655218582,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.555803472449995,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,84.38816443424291,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.836634359838241,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,60.33689728254329,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.950450029311041,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,91.96957697216575,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,30.3734552604961,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.765146035257644,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.51991790806041,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,55.29479613675963,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.56046015801573,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,37.47373890799688,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,67.82053022777897,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.72766125183874,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.97326587378637,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.25757524580807,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,11.089015932678619,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.543022420200128,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,32.28500664928116,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.756715411909475,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,96.93620939120721,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,47.697762893389495,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,38.4916335014447,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.776165446289781,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,50.5596311109767,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.069253036360433,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,96.38157630463793,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,28.084860606574555,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.830735495538507,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,37.88798892848383,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.73330884170411,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,35.43247586947115,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.613108919094255,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,38.85188608317267,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.704005729472291,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,86.78356580203838,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,37.08585110631674,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.58423572604861,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.542022319529453,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,44.47708709606346,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.966510089911582,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,75.18568183743434,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,70.13676768071362,FAILED
+5,Nível de água do motor,Umidade,50,5,15,5.228775504059143,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.75524355357155,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.489138108825916,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,31.483758198786983,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.92046406440491,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,49.962136228744214,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.666313253084324,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,90.49046184863943,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.67391243305384,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.07779519757636,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.4203046635386,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.05456708697544,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.188008015669126,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,42.742040898462164,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,37.87970710533048,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.237960531928707,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.28864004486402,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.677490401145135,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,49.93306435742668,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.932329272221903,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,23.5547605747309,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,15.055547820403422,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,74.58766918411122,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.539839571359124,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,38.146411299711616,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.786559995691949,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,35.169284203178144,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,4.983640991870418,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,31.33809836801897,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,45.4742366772578,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.90643793846452,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,63.56824272167694,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.612331422057586,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,37.73270947093643,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.149790911360416,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.2686568179817,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.403883737019294,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,31.989699730050315,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,37.060589146270495,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.55344835711674,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.567526108443559,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,35.12293223053336,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.53808528287135,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,7.487552491426424,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,17.178268196911727,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.891939015716947,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,63.97626812020002,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,38.72018866420143,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,41.25645782075147,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.162976276198982,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,47.3859390446936,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.369539333803111,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,60.420377434196,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.0365295798635,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.36622167749883,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.214593924003122,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,51.970089584467004,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.99762028805804,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,27.670485617643358,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,40.07356360362908,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.341420927662998,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,32.084186010694346,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.41732097383874,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,16.65812566934261,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,15.071311925969042,FAILED
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,41.721314860122725,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.507469668763271,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,7.861431562590378,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,45.63956535641675,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.107593829999956,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.691632350222601,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,23.742173211050332,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.898058703567029,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,60.06322332285534,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,17.080275557012477,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.573634167025795,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,48.96878325879557,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.210052639986785,FAILED
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,79.01027958123146,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.061211917118467,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,62.90954478972668,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.978197928655302,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,24.619313367152074,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,33.19362652993388,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,38.902654187506215,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.328911354478642,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,31.725181588979865,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.536125408155367,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,94.61393798707518,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,49.407243412001584,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.227270221770429,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,59.90625817950527,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.73980625350754,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,12.072290444132005,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.941591166457048,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.202189105275846,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.6880596698727,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,62.99948987311182,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.1597318891675,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.81392084454682,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.789927212384832,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.4812719754409,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.816262043740172,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,52.76530422129127,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,62.49129762065411,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.450732308514517,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.12734844605043,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.94105498293156,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,24.321309434863252,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.799032908766672,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,41.87496442525874,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.97173441983226,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,93.56018899456937,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.121930649495056,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.91357861084351,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.643376392777286,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,23.21527883316134,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.184961317289165,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,21.991210163033923,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,57.170047763642344,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.315013791894849,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,46.011181028313885,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.61135718748058,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,19.219241112055045,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.82173316038902,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,29.888716380474293,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.434328557208617,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,102.6794614674914,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.42433564957818,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.545910083875334,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.427923641406117,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,57.40235448744292,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.833183499952494,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,57.39688890445562,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,33.438030648823315,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.924699641906262,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,28.5679026067058,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,38.26366637007441,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,79.64903943589248,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.41741362019032,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,62.2444766951196,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.277961082571812,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,99.065640393158,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.47042344046214,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.62770239059824,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.462647262524328,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.49026758789658,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.064664673228872,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,49.41216235635752,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,34.949063360620286,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.624037208461848,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,56.22274954277789,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.46536503972462,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,26.78104647124013,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.561634228018654,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,64.4594463109639,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.7693388980132285,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,98.97472378784849,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,35.163941785147856,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.16821700040393,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.347508163188786,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.510807672565726,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.143586723274752,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,95.14466422295503,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,27.337526010794164,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.576767169497485,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.46894564520038,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.4991265857637,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,18.64186604283671,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.0813535706002,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,56.85365261233207,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.983938779732458,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,79.65034452881842,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.186240299880296,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,65.2388170888301,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.820800423141362,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.663899519000296,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,47.26206958455788,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.694800032812877,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,25.796720926240198,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.21998672203594,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,25.34859461980672,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.06687867355555,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,69.08695357441024,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.244615248289538,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,37.920085000056574,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.759376561688654,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,30.60098095502588,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.56284821000142,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.162212642912365,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.526470480734293,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,61.98188466857398,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,108.40289425627945,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.641780390367582,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,41.42086011425626,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.07745444256429,FAILED
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,47.87993086747403,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.770527435102359,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,86.79797744716785,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.981624366633984,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,51.21022794086902,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.71224036906073,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,36.186193161553206,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.39966159748255,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,29.183595631142953,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.850354548791483,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,62.699677871645775,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,98.2613922638829,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.775084556898523,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,59.714277303497646,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.73048190059466,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,34.0542795564797,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.202018078274428,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,108.80424500099348,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.339337927106829,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.08209271445982,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.916140461253654,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,66.71378899967799,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.897271171115534,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.5607853062362,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.20494354652246,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,25.681195787926974,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,24.879222348044525,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.339064819517262,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,41.7498039176807,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,34.35904715112377,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.397284408359422,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.311868038573685,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,45.42301582495558,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.651696707972148,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.11177529602726,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.531051968880949,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,74.84149170233535,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.6710023217555,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,49.1064322126048,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.21476125251085,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,64.40448104237207,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,25.471431090034304,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.285302536705489,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,46.560539962991434,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.568692549085284,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,68.32875700494199,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.446820006883883,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,24.823964310355947,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.349182378239037,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,62.01646867236654,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.45609787267528,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,59.804861097701604,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,35.90953996907309,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,60.90762871411441,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.981200030179085,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,43.11326410779364,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,52.56642650566145,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.51573375976705,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,35.40388775660698,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.24029693173833,FAILED
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,63.376107443484926,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.771771527432005,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,67.42904034823412,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.288565287526437,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,30.419400997825612,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.510681422196072,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,35.4774109960232,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.46307793618095,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.909618672046705,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.691933685890933,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,44.45985532029533,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,23.203565454190375,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.003534352542256,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,35.006926021389255,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,31.281388873768925,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,49.5216478710845,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.503647072164225,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,19.790619697991282,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.72772173089658,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,43.40948897246345,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.375081290909836,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,110.6238457161907,FAILED
+2,Pressão do óleo,Pressão,20,30,40,29.741187508681783,FAILED
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,59.81565456154097,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.328317803583797,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.73797022284436,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,103.90123110038972,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.674090966233771,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,19.8641961972393,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.59993527081024,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,24.948237766724205,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.067798546873737,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,99.25702765085374,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.02126149675097,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,38.31473854704595,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.239521889386548,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,7.609915768843614,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.280062994039305,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,39.81363723391207,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.91236497233012,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,63.51656289352438,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,70.81943154747069,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.547630532300868,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,61.94174477310463,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.62129384941923,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,33.038113347928366,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.9854932769907805,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,23.856718679467825,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.691790897502855,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,40.923895860904864,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.094316100579245,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,10.758300236659123,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.327263395466076,FAILED
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,24.183067886726874,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.452659835597835,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.352706673793673,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,63.98793209888117,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.112448308251336,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,19.68744232351963,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.062499827123006,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,41.90428862091186,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.30169388945015,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,110.04039378952662,FAILED
+5,Nível de água do motor,Umidade,50,5,15,9.476068428269773,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,37.18102513224113,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,14.54015294357481,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,76.28628214360437,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.86156629225942,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,53.47613998968107,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.568623262183401,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.111802926390155,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,98.56859880348408,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.92250210426121,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,15.814905618812224,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.48770273613985,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,24.844619574709732,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.034325683492055,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,64.70205385319032,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.655081152790752,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.032037504056497,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.849356228001394,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,10.810081328596826,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.934045831526625,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,39.425458197082705,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.33279192080969,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,61.71608555406294,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,47.3033915778379,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.42491074231965,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,40.164244570218564,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.84310326229531,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,70.67536935691729,FAILED
+5,Nível de água do motor,Umidade,50,5,15,14.14990267930256,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,98.66267355775817,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.769716915433953,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,47.80547027895406,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.822851290063483,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,57.10387472232968,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.7777575311391,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,22.10482732096515,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.395951996017573,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,32.145289554189205,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,39.75094171892473,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.948879872211618,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,47.26228399691958,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.31918371986229,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,41.307368750657275,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.395850441305798,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,9.315020980623341,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.651024621398562,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,50.65710790789801,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.021734870622032,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,34.08768711312226,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.84791797527233,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,52.89026733792171,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.040524429819143,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.652728308213625,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,14.05121384164639,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.19819264438341,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,17.768884671374288,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,40.31300475031197,FAILED
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,55.72304281306232,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.882685936255523,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,22.93309379892278,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.55128459351778,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,23.105264773718996,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.3730738230887765,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,21.417785653598372,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.51801921381659,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,69.4948720710739,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.112612845319187,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,25.458330505214867,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,92.20886847698421,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.733382839762346,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,50.76266712648471,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.752732997982914,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,56.24218324813174,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.81829513514377,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,105.64288581787518,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.108746358695385,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,67.19648528446227,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.232999761520023,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,39.78430418569317,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.0872521154493,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,47.51633240985216,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.809227349771774,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,54.735845054825134,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,104.81498761939122,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.031731675370562,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,68.7587296651916,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.77533339959658,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,29.668153538474574,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.550285400371788,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,41.1629131574691,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.67357715100081,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,23.136680832864904,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.31059390852351,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,50.341598240476465,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,37.30371792224719,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,64.672601846991,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.498676321167304,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,55.98984661890411,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,93.29537345430646,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.413854543012546,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,34.02396841846658,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,38.681991867148035,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,51.74217824599263,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.2729916235715,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,104.91284939755964,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.392217489120848,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,21.889265898866157,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.9144581200099875,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,70.49836853383113,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,36.99589662666938,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,48.98345329487533,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,9.255342945792602,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,58.79499957051068,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,34.399180987905375,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,13.450154879483307,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,56.1717760930593,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,30.458458972266886,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,61.711580393647296,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.249829874377342,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,83.20087345316361,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,6.491964804043381,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.278525866941884,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,11.842810918800016,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,45.09543691918311,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,39.10213916077346,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,64.90153846979534,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.145061303427854,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,37.21963730233499,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,58.701060596820845,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,10.29496178116939,SUCCESS
+1,Temperatura motor,Temperatura,10,15,70,61.687573184313415,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,33.09108818901001,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,32.84578550823373,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,8.565785657768574,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,25.91933825828535,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,12.273538740713859,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,42.442826703510136,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,5.427168331224126,SUCCESS
+3,Temperatura da roda traseira esquerda,Temperatura,30,5,110,51.28446238699236,SUCCESS
+2,Pressão do óleo,Pressão,20,30,40,32.59502156433054,SUCCESS
+4,Temperatura do freio traseiro direito,Temperatura,40,20,70,61.623087196068596,SUCCESS
+5,Nível de água do motor,Umidade,50,5,15,7.754449263431269,SUCCESS
