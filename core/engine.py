@@ -9,7 +9,7 @@ class TestEngine():
 
     def start(self):
         with open('./samples.csv', 'a+') as file:
-            file.write('id, name, type, samplingRate, min, max, value, status')
+            file.write('id, name, type, samplingRate, min, max, value, status\n')
 
         for parameter in self.parameters:
             parameterThread = ParameterSampling(parameter=parameter, time=self.time)

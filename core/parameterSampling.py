@@ -22,7 +22,7 @@ class ParameterSampling(Thread):
             sample, error = self._generateSample()
 
             # Get current time that started sampling
-            currTimeSampling = time.time() * 1000
+            currTimeSampling = time.time()
             
             # Lock to access file and write on it
             self.lock.acquire()
@@ -33,7 +33,7 @@ class ParameterSampling(Thread):
             # Release lock object in order free execution
             self.lock.release()
 
-            time.sleep((1.0/self.parameter.get_samplingRate())*1000 - (time.time()*1000 - currTimeSampling))
+            time.sleep((1.0/self.parameter.get_samplingRate()) - (time.time()- currTimeSampling))
             
             # Current time
             now = time.time()
@@ -45,7 +45,7 @@ class ParameterSampling(Thread):
 
         sample = min + (max - min) * random.random()
 
-        return sample, (sample <= self.parameter.get_maxValue() and sample >= self.parameter.get_minValue())      
+        return sample, (sample < self.parameter.get_minValue() or sample > self.parameter.get_maxValue())      
     
     def _writeToFile(self, sample, error):
         status = 'FAILED' if error else 'SUCCESS'
@@ -54,7 +54,7 @@ class ParameterSampling(Thread):
             file.write(str(self.parameter.get_id())+','+str(self.parameter.get_name())+ ',' +
                            str(self.parameter.get_type())+',' +str(self.parameter.get_samplingRate())+ ',' +
                            str(self.parameter.get_minValue())+ ',' +str(self.parameter.get_maxValue())+ ',' +
-                           str(sample)+ ',' +str(status))
+                           str(sample)+ ',' +str(status) + '\n')
 
         
         
