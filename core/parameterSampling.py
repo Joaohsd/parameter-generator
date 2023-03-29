@@ -6,23 +6,22 @@ import random
 
 class ParameterSampling(Thread):
     def __init__(self, parameter:Parameter, time:float):
+        super().__init__()
         self.parameter = parameter
         self.time = time * 1000
         self.lock = Lock()
-        super().__init__()
 
     def run(self):
         # Compute begin and end of generation of samples
         start = time.time() * 1000
         end = start + self.time
-        now = time.time()
         # Running
-        while (end - now) >= 0:
+        while end  >= (time.time() * 1000):
             # Generate Samples
             sample, error = self._generateSample()
 
             # Get current time that started sampling
-            currTimeSampling = time.time()
+            currTimeSampling = time.time() * 1000
             
             # Lock to access file and write on it
             self.lock.acquire()
@@ -30,13 +29,12 @@ class ParameterSampling(Thread):
             # Write to file and save sample
             self._writeToFile(sample=sample, error=error)
 
-            # Release lock object in order free execution
+            # Release lock object in order to free the execution
             self.lock.release()
 
-            time.sleep((1.0/self.parameter.get_samplingRate()) - (time.time()- currTimeSampling))
-            
-            # Current time
-            now = time.time()
+            time.sleep((1.0/self.parameter.get_samplingRate()) - (time.time() * 1000 - currTimeSampling)/1000.0)
+        # Wait for finishing the Thread
+        time.sleep(0.01)
 
     def _generateSample(self):
         # Compute range to generate samples out of range

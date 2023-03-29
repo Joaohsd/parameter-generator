@@ -7,10 +7,9 @@ def main():
     # Opening dataset
     with open('dataset/data.json', encoding='utf8') as file:
         dataset = json.load(file)
-    
     # Getting parameters on dataset
     parameters = parameterParser(dataset)
-    # Time duration for test
+    # Time duration in seconds for test 
     time = 10
     # Creating an instance of TestEngine to control the test
     test = TestEngine(name='Teste de Freio', time=time, parameters=parameters)

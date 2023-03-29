@@ -12,7 +12,7 @@
     "type": "Pressão",
     "minValue": "30",
     "maxValue":"40",
-    "samplingRate":"10"
+    "samplingRate":"20"
   },
   {
     "id": "3",
@@ -20,7 +20,7 @@
     "type": "Temperatura",
     "minValue": "5",
     "maxValue":"110",
-    "samplingRate":"10"
+    "samplingRate":"30"
   },
   {
     "id": "4",
@@ -28,7 +28,7 @@
     "type": "Temperatura",
     "minValue": "20",
     "maxValue":"70",
-    "samplingRate":"10"
+    "samplingRate":"40"
   },
   {
     "id": "5",
@@ -36,5 +36,5 @@
     "type": "Umidade",
     "minValue": "5",
     "maxValue":"15",
-    "samplingRate":"10"
+    "samplingRate":"50"
   }]
